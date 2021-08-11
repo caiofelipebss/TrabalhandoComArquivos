@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TrabalhandoComArquivos_Path/1.0.0": {
+        "runtime": {
+          "TrabalhandoComArquivos_Path.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrabalhandoComArquivos_Path/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

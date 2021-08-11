@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.exe
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.deps.json
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.dll
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.pdb
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.dll
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.pdb
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_2\TrabalhandoComArquivos_2\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_2.genruntimeconfig.cache

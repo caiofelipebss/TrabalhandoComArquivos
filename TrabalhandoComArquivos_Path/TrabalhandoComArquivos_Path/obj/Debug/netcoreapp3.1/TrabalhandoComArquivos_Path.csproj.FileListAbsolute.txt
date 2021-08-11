@@ -1,0 +1,12 @@
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.exe
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.deps.json
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.dll
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.pdb
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.dll
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.pdb
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Path\TrabalhandoComArquivos_Path\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Path.genruntimeconfig.cache

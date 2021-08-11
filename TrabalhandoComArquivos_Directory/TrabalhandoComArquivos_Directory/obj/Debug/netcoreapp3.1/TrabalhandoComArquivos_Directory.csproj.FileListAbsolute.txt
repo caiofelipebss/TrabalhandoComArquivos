@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.exe
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.deps.json
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.dll
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\bin\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.pdb
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.dll
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.pdb
+D:\ADS\C# Nelio Alves\Aulas\Trabalhando com Arquivos\TrabalhandoComArquivos_Directory\TrabalhandoComArquivos_Directory\obj\Debug\netcoreapp3.1\TrabalhandoComArquivos_Directory.genruntimeconfig.cache
